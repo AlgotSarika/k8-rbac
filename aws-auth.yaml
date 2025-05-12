@@ -17,4 +17,4 @@ metadata:
   name: aws-auth
   namespace: kube-system
   resourceVersion: "1257"
-  uid: e1a29768-10dd-429b-a7cc-87769c0fbc1c
+  uid: fadc33af-5fc2-42a4-98c4-74e37b6e2143
